@@ -81,5 +81,4 @@ public class Building extends JPanel implements ActionListener{
 		
 	} 
 		
-	
 }
